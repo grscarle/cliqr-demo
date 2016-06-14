@@ -1,0 +1,2 @@
+# cliqr-demo
+CliQr Demo
